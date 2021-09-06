@@ -1,3 +1,6 @@
+
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
 const { app, BrowserWindow } = require('electron');
 const path = require('path');
 
